@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BookStore2023.MODELS.User
+namespace BookStore.DL.Interfaces
 {
-    internal class Class1
+    internal interface Interface1
     {
-        int id;
-        string name;
     }
 }
